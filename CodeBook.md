@@ -17,10 +17,15 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The script with R code **run_analysis.R** performs main steps:
 
 0. Preparatory works.
+
 	0.1 Downloads the data.
+	
 	0.2 Extracts the data.
+	
 	0.3 Reads data files.
+	
 	0.4 Assigns column names to raw data.
+	
 1. Merges the training and the test sets to create one data set.   
 2. Extracts only the measurements on the mean and standard deviation for each measurement   
 3. Assigns descriptive activity names to name the activities in the data set   
