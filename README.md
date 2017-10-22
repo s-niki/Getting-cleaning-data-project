@@ -1,5 +1,4 @@
 # Getting and Cleaning Data Course Project
-======
 Author: Sergii Nikiforov
 
 In this GitHub repository you will find R script and descriptive documentation files that are a Coursera's "Getting and Cleaning Data" Course project.
@@ -18,11 +17,16 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 _You should create one R script called run_analysis.R that does the following._
 
-_1. Merges the training and the test sets to create one data set._
-_2. Extracts only the measurements on the mean and standard deviation for each measurement._
-_3. Uses descriptive activity names to name the activities in the data set._
-_4. Appropriately labels the data set with descriptive variable names._
-_5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject._
+_**1.** Merges the training and the test sets to create one data set._
+
+_**2.** Extracts only the measurements on the mean and standard deviation for each measurement._
+
+_**3.** Uses descriptive activity names to name the activities in the data set._
+
+_**4.** Appropriately labels the data set with descriptive variable names._
+
+_**5.** From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject._
+
 
 ## Files decription (steps to reproduce the project)
 
@@ -30,5 +34,5 @@ _5. From the data set in step 4, creates a second, independent tidy data set wit
 
 **CodeBook.md** - a description of the variables, the data, and operations to clean up and tidy the data
 
-The output of the run_analysis.R script is a file TidyTable.txt, which is uploaded to the submittion form.
+The output of the run_analysis.R script is a file **TidyTable.txt**, which is uploaded to the submittion form.
 
