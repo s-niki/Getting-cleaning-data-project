@@ -30,7 +30,7 @@ _**5.** From the data set in step 4, creates a second, independent tidy data set
 
 ## Files decription (steps to reproduce the project)
 
-**run_analysis.R**  - a script that performs data analysis, tidies data and creates a file, which contains a tidy dataset.
+**run_analysis.R**  - a script that performs data analysis, tidies data and creates a file, which contains a tidy dataset. You need to run this script in R Studio.
 
 **CodeBook.md** - a description of the variables, the data, and operations to clean up and tidy the data
 
